@@ -6,5 +6,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>core-service</module>
+  	<module>web-project</module>
   </modules>
 </project>
